@@ -16,6 +16,10 @@
     </a>
   </p>
 
+<br/>
+  <p>𝗦𝗢𝗖𝗜𝗔𝗟 𝗠𝗘𝗗𝗜𝗔 𝗦𝗧𝗨𝗙𝗙</p>
+</p>
+
 <!-- Social icons section -->
 <p align="center">
   <a href="https://www.youtube.com/channel/UCdZKgrtUeh62cUr59_PtNew"><img width="32px" alt="Youtube" title="Youtube" src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579609-yumminkysocialmedia08_83079.png"/></a>
