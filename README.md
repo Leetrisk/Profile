@@ -17,7 +17,7 @@
   </p>
 
 <br/>
-<summary>𝗠𝗬 𝗥𝗘𝗣𝗢𝗦𝗜𝗧𝗢𝗥𝗜𝗘𝗦</summary>
+<summary>𝗦𝗢𝗖𝗜𝗔𝗟 𝗠𝗘𝗗𝗜𝗔 𝗦𝗧𝗨𝗙𝗙</summary>
 </p>
 
 <!-- Social icons section -->
