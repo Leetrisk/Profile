@@ -14,13 +14,10 @@
   <img src="https://komarev.com/ghpvc/?username=leetrisk&color=green" />
   <p>
     <a href="leetrisk">
-      <img src="https://github-readme-stats.vercel.app/api?username=leetrisk&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true&hide_border=true&hide=contribs,issues" />
+  <img src = "https://github-readme-stats.vercel.app/api?username=leetrisk&show_icons=true&theme=bear" width = 400>
     </a>
   </p>
   
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=leetrisk&show_icons=true&theme=bear" width = 400>
-</p>
   
   <br>
   <br>
