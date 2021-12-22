@@ -6,7 +6,7 @@
 <p align="center">
   <a href="https://www.youtube.com/channel/UCdZKgrtUeh62cUr59_PtNew"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/4gAvbWw9j6" alt="My Discord"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+  <a href="https://discord.gg/4gAvbWw9j6" alt="My Discord"><img width="32px" src="https://www.freepnglogos.com/uploads/discord-logo-png/discord-icon-24.png"/></a>
 </p>
 
 <br/>
