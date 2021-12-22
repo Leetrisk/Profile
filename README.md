@@ -13,8 +13,8 @@
   <p>
   </p>
   <p>Hi Im Risk, a C# Skiddy</p>
-  <img src="https://profile-counter.glitch.me/leetrisk/count.svg" />
-  //<img src="https://komarev.com/ghpvc/?username=leetrisk&color=green" />
+  #<img src="https://profile-counter.glitch.me/leetrisk/count.svg" />
+  <img src="https://komarev.com/ghpvc/?username=leetrisk&color=green" />
   <p>
     <a href="leetrisk">
   <img src = "https://github-readme-stats.vercel.app/api?username=leetrisk&show_icons=true&theme=bear" width = 400>
