@@ -1,6 +1,6 @@
 <div align="center">
 <br/>
-** HI THERE **
+**HI THERE**
 </p>
 
   <a href="https://google.com/">
