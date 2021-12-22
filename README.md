@@ -1,6 +1,6 @@
 <div align="center">
 <br/>
-**HI THERE**
+  <p>Hi Im Risk, a C# Skiddy</p>
 </p>
 
   <a href="https://google.com/">
@@ -9,7 +9,6 @@
   <br>
   <p>
   </p>
-  <p>Hi Im Risk, a C# Skiddy</p>
   <img src="https://komarev.com/ghpvc/?username=leetrisk&color=green" />
   <p>
     <a href="leetrisk">
