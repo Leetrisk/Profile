@@ -19,9 +19,7 @@
   </p>
   
   <p>
-    <a href="https://wangchujiang.com/">
-      <img src="https://github-profile-trophy.vercel.app/?username=leetrisk&theme=flat&title=Stars,Followers,Commit,MultiLanguage&margin-w=5&row=1&column=4" />
-    </a>
+
   </p>
   
   <br>
@@ -29,7 +27,7 @@
 </div>
 
 <details>
-<summary>More Repositories ...</summary>
+<summary>  My Public Repositories ...</summary>
 
 <a href="https://github.com/Leetrisk/dcbgb">
   <img alt="kkt" src="https://github-readme-stats.vercel.app/api/pin/?username=Leetrisk&repo=dcbgb&show_owner=true" />
