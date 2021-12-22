@@ -1,25 +1,13 @@
-
-[Weibo](http://weibo.com/pc175) • [Twitter](https://twitter.com/leetrisk) • [E-Mail](mailto:wowohoo@qq.com) • [Sponsor](https://wangchujiang.com/sponsor.html)
-
 <div align="center">
   <br>
   <br>
   <br>
   <br>
-  <a href="https://wangchujiang.com/">
+  <a href="https://google.com/">
     <img width="60" height="60" src="https://yt3.ggpht.com/iSd6NnKtz0ZRPYmTjPNBLFeaWNay8lNcg9xHr4vLsaJZ5eCeZpJJ8vAdKshUF9j07-QfrpbMPA=s88-c-k-c0x00ffffff-no-rj" />
   </a>
   <br>
   <p>
-    <a href="http://weibo.com/pc175">
-      <img width="18" height="18" src="https://raw.githubusercontent.com/leetrisk/leetrisk/master/imgs/weibo.svg?sanitize=true" />
-    </a>
-    <a href="https://twitter.com/leetrisk">
-      <img width="18" height="18" src="https://raw.githubusercontent.com/leetrisk/leetrisk/master/imgs/twitter.svg?sanitize=true" />
-    </a>
-    <a href="mailto:wowohoo@qq.com">
-      <img width="18" height="18" src="https://raw.githubusercontent.com/leetrisk/leetrisk/master/imgs/mail.svg?sanitize=true" />
-    </a>
   </p>
   <p>Hi Im Risk, a C# Skiddy</p>
   <p>
