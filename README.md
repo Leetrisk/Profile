@@ -41,8 +41,8 @@
 <details>
 <summary>More Repositories ...</summary>
 
-<a href="https://github.com/kktjs/kkt">
-  <img alt="kkt" src="https://github-readme-stats.vercel.app/api/pin/?username=kktjs&repo=kkt&show_owner=true" />
+<a href="https://github.com/Leetrisk/dcbgb">
+  <img alt="kkt" src="https://github-readme-stats.vercel.app/api/pin/?username=Leetrisk&repo=dcbgb&show_owner=true" />
 </a>
   <img src="https://profile-counter.glitch.me/leetrisk/count.svg" />
   <img src="https://komarev.com/ghpvc/?username=leetrisk&color=green" />
