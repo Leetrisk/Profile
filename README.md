@@ -18,7 +18,7 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://www.youtube.com/channel/UCdZKgrtUeh62cUr59_PtNew"><img width="32px" alt="Youtube" title="Youtube" src="https://icons.iconarchive.com/icons/bokehlicia/pacifica/256/youtube-icon.png"/></a>
+  <a href="https://www.youtube.com/channel/UCdZKgrtUeh62cUr59_PtNew"><img width="32px" alt="Youtube" title="Youtube" src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579609-yumminkysocialmedia08_83079.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://discord.gg/4gAvbWw9j6" alt="My Discord"><img width="32px" src="https://www.freeiconspng.com/uploads/discord-chat-for-gamers-social-networking-icon-9.png"/></a>
 </p>
