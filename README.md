@@ -15,11 +15,6 @@
   <img src = "https://github-readme-stats.vercel.app/api?username=leetrisk&show_icons=true&theme=bear" width = 400>
     </a>
   </p>
-  
-  
-  <br>
-  <br>
-</div>
 
 <!-- Social icons section -->
 <p align="center">
