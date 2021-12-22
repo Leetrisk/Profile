@@ -1,6 +1,6 @@
 <div align="center">
 <br/>
-  <p>Hi Im Risk, a C# Skiddy</p>
+  <p>Hi Im Risk, a C# Skiddy, You might find some random crap i make here 😉</p>
 </p>
 
   <a href="https://google.com/">
