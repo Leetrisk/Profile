@@ -53,12 +53,10 @@
 <div align="center">
 <summary>𝗠𝗬 𝗥𝗘𝗣𝗢𝗦𝗜𝗧𝗢𝗥𝗜𝗘𝗦</summary>
 
-<div align="center">
 <a href="https://github.com/Leetrisk/dcbgb">
   <img alt="kkt" src="https://github-readme-stats.vercel.app/api/pin/?username=Leetrisk&repo=dcbgb&show_owner=true" />
 </a>
 <a href="https://github.com/Leetrisk/dumbrobloxexecutor">
-
   <img alt="kkt" src="https://github-readme-stats.vercel.app/api/pin/?username=Leetrisk&repo=dumbrobloxexecutor&show_owner=true" />
 </a>
 
