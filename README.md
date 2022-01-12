@@ -4,7 +4,7 @@
 </p>
 
   <a href="https://google.com/">
-    <img width="60" height="60" src="https://yt3.ggpht.com/iSd6NnKtz0ZRPYmTjPNBLFeaWNay8lNcg9xHr4vLsaJZ5eCeZpJJ8vAdKshUF9j07-QfrpbMPA=s88-c-k-c0x00ffffff-no-rj" />
+    <img width="60" height="60" src="https://avatars.githubusercontent.com/u/78285843" />
   </a>
   <br>
   <p>
