@@ -59,6 +59,9 @@
 <a href="https://github.com/Leetrisk/dcbgb">
   <img alt="kkt" src="https://github-readme-stats.vercel.app/api/pin/?username=Leetrisk&repo=dcbgb&show_owner=true" />
 </a>
+<a href="https://github.com/Leetrisk/Elden-Ring-C-EAC-Swapper">
+  <img alt="kkt" src="https://github-readme-stats.vercel.app/api/pin/?username=Leetrisk&repo=dcbgb&show_owner=true" />
+</a>
 
 </details>
 
