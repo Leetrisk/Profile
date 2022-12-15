@@ -1,6 +1,6 @@
 <div align="center">
 <br/>
-  <p> ----- W E L C O M E    T O    M Y    P R O F I L E -----</p>
+  <p> ----- W E L C O M E -----</p>
 </p>
 
   <a href="https://google.com/">
