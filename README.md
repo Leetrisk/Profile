@@ -43,6 +43,6 @@
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/leetrisk?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Leetrisk&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
 
