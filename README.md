@@ -49,5 +49,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/blob/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/{{your_username}}/Leetrisk/blob/output/github-contribution-grid-snake.svg)
 
