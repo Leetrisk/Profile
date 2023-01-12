@@ -49,5 +49,5 @@
 
 <br clear="both">
 
-![Snake animation](https://github.com/{{your_username}}/Leetrisk/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/leetrisk/Leetrisk/blob/output/github-contribution-grid-snake.svg)
 
