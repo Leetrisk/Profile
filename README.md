@@ -6,15 +6,9 @@
   <a href="https://google.com/">
     <img width="60" height="60" src="https://avatars.githubusercontent.com/u/78285843" />
   </a>
-  <br>
-  <p>
-  </p>
-  <img src="https://komarev.com/ghpvc/?username=leetrisk&color=green" />
-  <p>
-    <a href="leetrisk">
-  <img src = "https://github-readme-stats.vercel.app/api?username=leetrisk&show_icons=true&theme=bear" width = 400>
-    </a>
-  </p>
+
+[![](https://visitcount.itsvg.in/api?id=Leetrisk&icon=5&color=8)](https://visitcount.itsvg.in)
+
 
 <br/>
 <summary>𝗦𝗢𝗖𝗜𝗔𝗟 𝗠𝗘𝗗𝗜𝗔 𝗦𝗧𝗨𝗙𝗙</summary>
