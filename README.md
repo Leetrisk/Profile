@@ -42,28 +42,6 @@
   <a href="https://github.com/leetrisk?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/leetrisk?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 
-  </p>
-
-
-  </p>
-
-
-<Repositories>
-<div align="center">
-<summary>𝗠𝗬 𝗥𝗘𝗣𝗢𝗦𝗜𝗧𝗢𝗥𝗜𝗘𝗦</summary>
-
-<a href="https://github.com/Leetrisk/Processor-Monitor">
-  <img alt="ttk" src="https://github-readme-stats.vercel.app/api/pin/?username=Leetrisk&repo=Processor-Monitor&show_owner=true" />
-</a>
-<a href="https://github.com/Leetrisk/dcbgb">
-  <img alt="kkt" src="https://github-readme-stats.vercel.app/api/pin/?username=Leetrisk&repo=dcbgb&show_owner=true" />
-</a>
-<a href="https://github.com/Leetrisk/Elden-Ring-C-EAC-Swapper">
-  <img alt="kkt" src="https://github-readme-stats.vercel.app/api/pin/?username=Leetrisk&repo=Elden-Ring-C-EAC-Swapper&show_owner=true" />
-</a>
-
-</details>
-
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Leetrisk&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
