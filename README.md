@@ -15,8 +15,9 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Leetrisk&theme=vue-dark&hide_border=false)<br/>
 
 
+<div align="center">
 <br/>
-<summary>𝗦𝗢𝗖𝗜𝗔𝗟 𝗠𝗘𝗗𝗜𝗔 𝗦𝗧𝗨𝗙𝗙</summary>
+<p>𝗦𝗢𝗖𝗜𝗔𝗟 𝗠𝗘𝗗𝗜𝗔 𝗦𝗧𝗨𝗙𝗙</div>p>
 </p>
 
 <!-- Social icons section -->
