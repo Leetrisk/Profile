@@ -50,5 +50,5 @@
 
 <br clear="both">
 
-![Snake animation](Leetrisk)
+![Snake animation](github_user_name: Leetrisk)
 
