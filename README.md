@@ -17,7 +17,7 @@
 
 <div align="center">
 <br/>
-<p>𝗦𝗢𝗖𝗜𝗔𝗟 𝗠𝗘𝗗𝗜𝗔 𝗦𝗧𝗨𝗙𝗙</div>p>
+<p>𝗦𝗢𝗖𝗜𝗔𝗟 𝗠𝗘𝗗𝗜𝗔 𝗦𝗧𝗨𝗙𝗙</div>
 </p>
 
 <!-- Social icons section -->
